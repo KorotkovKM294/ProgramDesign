@@ -1,3 +1,5 @@
+package ru.sbt.kkm.design;
+
 public class Triangle implements Figure {
     private final double a;
     private final double h;
